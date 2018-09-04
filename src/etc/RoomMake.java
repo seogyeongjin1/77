@@ -39,7 +39,7 @@ public static void main(String[] args) {
    // TODO Auto-generated method stub
    try
    {
-      UIManager.setLookAndFeel("com.jtattoo.plaf.hifi.HiFiLookAndFeel");
+	   //UIManager.setLookAndFeel("com.jtattoo.plaf.hifi.HiFiLookAndFeel");
    }catch(Exception ex){} //예외처리
    RoomMake rm=new RoomMake();
 }

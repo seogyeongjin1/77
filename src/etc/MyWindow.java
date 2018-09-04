@@ -59,7 +59,7 @@ public class MyWindow extends JFrame implements ActionListener, MouseListener{
       
       try
       {
-         UIManager.setLookAndFeel("com.jtattoo.plaf.texture.TextureLookAndFeel");
+         //UIManager.setLookAndFeel("com.jtattoo.plaf.texture.TextureLookAndFeel");
       }catch(Exception ex) {} //예외처리
       new MyWindow().setLocationRelativeTo(null);
    }

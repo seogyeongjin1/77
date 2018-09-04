@@ -194,7 +194,7 @@ public class WaitRoom extends JPanel implements ActionListener{
       // TODO Auto-generated method stub
       try
       {
-         UIManager.setLookAndFeel("com.jtattoo.plaf.mint.MintLookAndFeel");
+    	  //UIManager.setLookAndFeel("com.jtattoo.plaf.mint.MintLookAndFeel");
       }catch(Exception ex) {} //예외처리
         WaitRoom wr=new WaitRoom();
    }
